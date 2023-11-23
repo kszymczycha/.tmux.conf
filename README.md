@@ -1,4 +1,4 @@
-# tmux-conf
+# .tmux.conf
 
 Custom tmux configuration file:
 
